@@ -618,9 +618,6 @@ an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
-                   END OF TERMS AND CONDITIONS
+END OF TERMS AND CONDITIONS
 
-    EpicACG  Copyright (C) 2025  dfdyz, Forixaim
-    This program comes with ABSOLUTELY NO WARRANTY;
-    This is free software, and you are welcome to redistribute it
-    under certain conditions;
+EpicACG  Copyright (C) 2025  dfdyz, Forixaim, This program comes with ABSOLUTELY NO WARRANTY; This is free software, and you are welcome to redistribute it under certain conditions (Any visual assets cannot be redistributed);
