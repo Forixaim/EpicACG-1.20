@@ -1,5 +1,5 @@
-<div align="center"><h1>GNU GENERAL PUBLIC LICENSE</h1></div>
-<div align="center"><h3>Version 3, 29 June 2007</h3></div>
+# GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
  Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
