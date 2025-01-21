@@ -29,7 +29,7 @@ public class EpicACG
     public static final String MODID = "epicacg";
     // Directly reference a slf4j logger
     public static final Logger LOGGER = LogUtils.getLogger();
-    public static final String VERSION = "20.9.6.0.fix1";
+    public static final String VERSION = "20.9.6.0.fix2";
 
     public EpicACG()
     {
@@ -42,7 +42,7 @@ public class EpicACG
         if(FMLEnvironment.dist == Dist.CLIENT){
             bus.addListener(EventPriority.LOWEST, this::regClientReloader);
             bus.addListener(Particles::registryParticles);
-            bus.addListener(PostEffects::register);
+            bus.addListener(PostPasses::register);
             bus.addListener(this::setupClient);
             bus.addListener(LoadingEvents::onModelRegister);
             bus.addListener(LoadingEvents::onModelBaked);
@@ -87,6 +87,7 @@ public class EpicACG
         MyAnimations.LoadCamAnims();
         MyModels.LoadOtherModel();
         event.enqueueWork(LoadingEvents::RegItemModelOverride);
+        //Effeks.load();
 
         try {
             ClientConfig.Load(false);
