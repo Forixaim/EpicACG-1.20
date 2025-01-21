@@ -1,7 +1,7 @@
 <div align="center"><h1>GNU GENERAL PUBLIC LICENSE</h1></div>
 <div align="center"><h3>Version 3, 29 June 2007</h3></div>
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -620,4 +620,4 @@ copy of the Program in return for a fee.
 
 END OF TERMS AND CONDITIONS
 
-EpicACG  Copyright (C) 2025  dfdyz, Forixaim, This program comes with ABSOLUTELY NO WARRANTY; This is free software, and you are welcome to redistribute it under certain conditions (Any visual assets cannot be redistributed);
+EpicACG  Copyright © 2025  dfdyz, Forixaim, This program comes with ABSOLUTELY NO WARRANTY; This is free software, and you are welcome to redistribute it under certain conditions (Any visual assets cannot be redistributed);
